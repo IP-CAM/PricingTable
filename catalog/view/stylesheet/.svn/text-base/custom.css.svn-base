@@ -1,0 +1,5 @@
+  .breadcrumb, .breadcrumb a{width:120px;}
+  #header{margin-top: 0px;}
+  #footer{padding: 20px;}
+  .pricing_table a.tooltip span{width:200px;}
+  #content {margin-bottom: 0px;}

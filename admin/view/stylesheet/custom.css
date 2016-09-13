@@ -1,0 +1,20 @@
+/*
+ * @support
+ * http://www.opensourcetechnologies.com/contactus.html
+ * sales@opensourcetechnologies.com
+* */
+  .pricing_table ul li{height: 60px;}
+  ul.dropdown-menu li{ height:30px;}
+  .pricing_table .pricing_yes,
+  .pricing_table .pricing_add,
+  .pricing_table .pricing_del,
+  .pricing_table .pricing_no{width:20px;}
+  .pricing_table input[type=radio]{float: left;}
+  .pricing_table p{margin: 0 0 24px 0;}
+  /*.pricing_table .feature{width: 80%;height: 24px;margin-left: 15px;margin-bottom: 5px;}*/
+  .pricing_table .feature{margin-left: 7px;}
+  .pricing_table li.pricing_header1{height: 100px;}
+  .container #content {background: none;}
+  #form{background: #FFFFFF url('../image/background.png') 0px 1px repeat-x;}
+  .pricing_column li input[placeholder="Value..."] {width: 113px;float: left;border: 1px silver solid;}
+  
